@@ -2,8 +2,7 @@
 
 A fun and interactive **Memory Card Game** where players match cards by flipping them over. The game is built with **React**, **TailwindCSS**, and **Material-UI** for a responsive and modern design. Perfect for testing and improving memory skills.  
 
-## 🚀 Live Demo  
-🔗 [Try it out here!](https://flip-recall.netlify.app/)  
+
 
 ## 📌 Features  
 - 🧠 **Memory Challenge** – Flip cards and match pairs to test and improve your memory.  
